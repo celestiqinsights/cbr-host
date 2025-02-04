@@ -1,5 +1,3 @@
-console.log("working");
-
 const API_BASE = "https://positive-substantial-lint.glitch.me";
 
 let lastSelectedCategory = "";
