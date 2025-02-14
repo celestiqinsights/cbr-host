@@ -3,4 +3,6 @@ $(document).ready(function () {
   $("#footer").load("components/footer.html");
   $("#category-nav").load("components/category-nav.html");
   $('#brands-slider').load("components/brands-slider.html");
+
+  $('.nice-select').niceSelect();
 });
